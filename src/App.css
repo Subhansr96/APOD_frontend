@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+.cal-box {
+  margin-right: 1%;
+  margin-left: auto;
+}
+.apod-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.top-comp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1%;
+}
+.apod-explain {
+  margin: 2% 5%;
+  text-align: justify;
+}
+.load {
+  font-size: 5rem;
+  text-align: center;
+  margin-top: 15rem;
+}
